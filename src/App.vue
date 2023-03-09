@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <h1>Hello</h1>
+  <h1>Lesson_1</h1>
   <Counter></Counter>
 </template>
 
